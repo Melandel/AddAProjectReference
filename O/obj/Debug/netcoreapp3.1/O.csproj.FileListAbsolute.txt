@@ -1,0 +1,8 @@
+C:\Users\tranm\Desktop\tmp\test\O\bin\Debug\netcoreapp3.1\O.deps.json
+C:\Users\tranm\Desktop\tmp\test\O\bin\Debug\netcoreapp3.1\O.dll
+C:\Users\tranm\Desktop\tmp\test\O\bin\Debug\netcoreapp3.1\O.pdb
+C:\Users\tranm\Desktop\tmp\test\O\obj\Debug\netcoreapp3.1\O.AssemblyInfoInputs.cache
+C:\Users\tranm\Desktop\tmp\test\O\obj\Debug\netcoreapp3.1\O.AssemblyInfo.cs
+C:\Users\tranm\Desktop\tmp\test\O\obj\Debug\netcoreapp3.1\O.csproj.CoreCompileInputs.cache
+C:\Users\tranm\Desktop\tmp\test\O\obj\Debug\netcoreapp3.1\O.dll
+C:\Users\tranm\Desktop\tmp\test\O\obj\Debug\netcoreapp3.1\O.pdb
